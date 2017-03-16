@@ -1,0 +1,11 @@
+.bold {
+  font-weight: bold;
+}
+
+#wiki-title {
+  font-size: 2em;
+}
+
+#centered-div {
+  text-align: center;
+}
