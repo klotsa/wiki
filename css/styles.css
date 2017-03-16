@@ -9,3 +9,19 @@
 #centered-div {
   text-align: center;
 }
+.img-thumbnail {
+    max-height: 50%;
+    max-width: 50%;
+    float: right;
+}
+#powder {
+  max-height: 50%;
+  max-width: 50%;
+  float: left;
+}
+
+#wiki-logo {
+  max-height: 100%;
+  max-width: 100%;
+
+}
